@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<menu>
+
+<food id="1">
+<foodName>Рулет с изюмом</foodName>
+<weight>75</weight>
+<price>15</price>
+</food>
+
+<food id="2">
+<foodName>Пирог с повидлом</foodName>
+<weight>60</weight>
+<price>13</price>
+</food>
+
+<food id="3">
+<foodName>Пирог с яблоками</foodName>
+<weight>60</weight>
+<price>13</price>
+</food>
+
+<food id="4">
+<foodName>Салат Изюминка</foodName>
+<weight>100</weight>
+<price>35</price>
+</food>
+
+<food id="5">
+<foodName>Салат Лукошко</foodName>
+<weight>100</weight>
+<price>40</price>
+</food>
+
+<food id="6">
+<foodName>Салат Капустный с помидором</foodName>
+<weight>100</weight>
+<price>19</price>
+</food>
+
+<food id="7">
+<foodName>Суп харчо с говядиной</foodName>
+<weight>250</weight>
+<price>31</price>
+</food>
+
+<food id="8">
+<foodName>Суп куриный с грибами</foodName>
+<weight>250</weight>
+<price>34</price>
+</food>
+
+<food id="9">
+<foodName>Суп болгарский вегетарианский</foodName>
+<weight>250</weight>
+<price>21</price>
+</food>
+
+<food id="10">
+<foodName>Рыбное филе с помидоркой</foodName>
+<weight>80</weight>
+<price>54</price>
+</food>
+
+<food id="11">
+<foodName>Печень по королевски</foodName>
+<weight>150</weight>
+<price>54</price>
+</food>
+
+<food id="12">
+<foodName>Свинина запеченная "По гусарски"</foodName>
+<weight>80</weight>
+<price>68</price>
+</food>
+
+<food id="13">
+<foodName>Греча с маслом</foodName>
+<weight>170</weight>
+<price>17</price>
+</food>
+
+<food id="14">
+<foodName>Макароны отварные</foodName>
+<weight>170</weight>
+<price>15</price>
+</food>
+
+<food id="15">
+<foodName>Рис отварной с маслом</foodName>
+<weight>170</weight>
+<price>16</price>
+</food>
+
+</menu>

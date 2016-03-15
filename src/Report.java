@@ -8,6 +8,8 @@ public class Report {
     private static int count = 0;
     private static ArrayList<Dish> myList = new ArrayList<Dish>();
 
+
+
     protected void setMyList (Dish[] dishs){
         for (int i=0; i<dishs.length; i++){
             myList.add(dishs[i]);

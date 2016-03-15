@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<orders>
+
+<order clientName="Пупкин.А">
+        <name>Салат Изюминка</name>
+        <name>Печень по королевски</name>
+        <name>Рис отварной с маслом</name>
+        <name>Рулет с изюмом</name>
+</order>
+
+<order clientName="Кривенко С.">
+        <name>Пирог с яблоками</name>
+        <name>Салат Лукошко</name>
+        <name>Суп куриный с грибами</name>
+        <name>Свинина запеченная "По гусарски"</name>
+        <name>Макароны отварные</name>
+</order>
+
+<order clientName = "Гайченков П.">
+        <name>Рулет с изюмом</name>
+        <name>Пирог с повидлом</name>
+        <name>Суп болгарский вегетарианский</name>
+        <name>Рыбное филе с помидоркой</name>
+</order>
+
+<order clientName="Сухожилов Л.">
+        <name>Пирог с повидлом</name>
+        <name>Салат Изюминка</name>
+        <name>Суп куриный с грибами</name>
+        <name>Печень по королевски</name>
+        <name>Макароны отварные</name>
+</order>
+
+</orders>
