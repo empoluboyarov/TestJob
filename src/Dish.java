@@ -6,7 +6,7 @@ import java.io.IOException;
 /**
  * Created by Evgeniy on 10.03.2016.
  */
-public class Dish extends MyParser{
+public class Dish{
 
     private String name;
     private int weight;
